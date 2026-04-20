@@ -52,3 +52,25 @@ Classe : C
 Plage : 192.168.10.0 - 192.168.10.255
 Classe : A
 Plage : 19.0.10.0 - 19.255.10.255
+Classe : B
+Plage : 162.192.10.0 - 162.192.10.255
+Classe : B
+Plage : 162.192.10.0 - 162.192.10.255
+Classe : B
+Plage : 162.192.10.0 - 162.192.10.255
+Classe : B
+Plage : 162.192.10.0 - 162.192.10.255
+Classe : B
+Plage : 162.192.10.0 - 162.192.10.255
+Classe : A
+Plage : 16.192.10.0 - 16.192.10.255
+Classe : A
+Plage : 1.168.0.0 - 1.168.15.255
+123.10.88.4 / 255.255.255.0 | Classe : A | Adresse r�seau : 123.10.88.0 | Broadcast : 123.10.88.255 (/24) | Plage h�tes : 123.10.88.1 � 123.10.88.254 | Nb h�tes utiles : 254
+123.10.88.4 / 255.255.255.0 | Classe : A | Adresse r�seau : 123.10.88.0 | Broadcast : 123.10.88.255 (/24) | Plage h�tes : 123.10.88.1 � 123.10.88.254 | Nb h�tes utiles : 254
+192.168.10.30 / 255.255.255.0 | Classe : C | Adresse réseau : 192.168.10.0 | Broadcast : 192.168.10.255 (/24) | Plage hôtes : 192.168.10.1 — 192.168.10.254 | Nb hôtes utiles : 254
+123.23.9.45 / 255.255.255.0 | Classe : A | Adresse réseau : 123.23.9.0 | Broadcast : 123.23.9.255 (/24) | Plage hôtes : 123.23.9.1 — 123.23.9.254 | Nb hôtes utiles : 254
+174.78.0.56 / 255.255.255.0 | Classe : B | Adresse réseau : 174.78.0.0 | Broadcast : 174.78.0.255 (/24) | Plage hôtes : 174.78.0.1 — 174.78.0.254 | Nb hôtes utiles : 254
+174.78.0.5 / 255.255.255.0 | Classe : B | Adresse réseau : 174.78.0.0 | Broadcast : 174.78.0.255 (/24) | Plage hôtes : 174.78.0.1 — 174.78.0.254 | Nb hôtes utiles : 254
+14.78.0.5 / 255.255.255.0 | Classe : A | Adresse réseau : 14.78.0.0 | Broadcast : 14.78.0.255 (/24) | Plage hôtes : 14.78.0.1 — 14.78.0.254 | Nb hôtes utiles : 254
+14.78.0.5 / 255.255.0.0 | Classe : A | Adresse réseau : 14.78.0.0 | Broadcast : 14.78.255.255 (/16) | Plage hôtes : 14.78.0.1 — 14.78.255.254 | Nb hôtes utiles : 65534
